@@ -9,3 +9,4 @@ h = int(input(""))
 
 max = max_val(p, max_val(a, l))
 print(max * h)
+
